@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <!-- 导航页 -->
+    <url>
+        <loc>https://go-furry.com/nav</loc>
+        <lastmod>2025-10-07</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- 游戏列表页 -->
+    <url>
+        <loc>https://go-furry.com/games</loc>
+        <lastmod>2025-11-12</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <!-- 游戏搜索页 -->
+    <url>
+        <loc>https://go-furry.com/games/search</loc>
+        <lastmod>2025-11-12</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- 游戏创作者页 -->
+    <url>
+        <loc>https://go-furry.com/games/creator</loc>
+        <lastmod>2026-01-25</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- 本站数据页 -->
+    <url>
+        <loc>https://go-furry.com/about</loc>
+        <lastmod>2025-11-12</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <!-- 本站数据页 -->
+    <url>
+        <loc>https://go-furry.com/panel</loc>
+        <lastmod>2025-11-12</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <!-- API 文档页 -->
+    <url>
+        <loc>https://go-furry.com/swagger</loc>
+        <lastmod>2025-11-12</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+</urlset>
